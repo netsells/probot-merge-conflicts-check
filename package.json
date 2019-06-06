@@ -24,7 +24,7 @@
     "probot": "^7.2.0"
   },
   "devDependencies": {
-    "@netsells/eslint-config": "^1.8.0",
+    "@netsells/eslint-config": "^2.3.0",
     "babel-eslint": "^10.0.1",
     "eslint": "^5.9.0",
     "jest": "^22.4.3",
