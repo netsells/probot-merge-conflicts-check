@@ -1,5 +1,5 @@
 {
-  "name": "probot-merge-conflicts-check",
+  "name": "@netsells/probot-merge-conflicts-check",
   "version": "1.0.0",
   "description": "Probot bot for checking if a PR can be merged without conflicts",
   "author": "Sam Turrell <sam.turrell@netsells.co.uk>",
